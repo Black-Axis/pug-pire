@@ -1,0 +1,49 @@
+{
+    "name": "pug-pire",
+    "version": "1.0.0",
+    "description": "This is just a more mixins with Pug JS for more productive projects.",
+    "license": "MIT",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://opensource.org/license/mit/"
+        }
+    ],
+    "author": {
+        "name": "Khaled Mohamed",
+        "email": "k.mohamed.11.98@gmail.com",
+        "url": "https://github.com/krypton225"
+    },
+    "contributors": [
+        "Khaled Mohamed"
+    ],
+    "main": "index.js",
+    "scripts": {
+        "dev": "pug ./src/index.pug --out ./dist --watch --pretty",
+        "cmt": "cz",
+        "log": "changelog generate",
+        "tags": "git push repo --tags",
+        "gen:lock": "npm i --package-lock-only"
+    },
+    "repository": {
+        "type": "gitlab",
+        "url": "https://gitlab.com/private-awesome-libraries/pug-js/pug-pire/"
+    },
+    "keywords": [
+        "Pug JS",
+        "Mixins",
+        "HTML Template",
+        "Pug JS Library"
+    ],
+    "bugs": {
+        "url": "https://gitlab.com/private-awesome-libraries/pug-js/pug-pire/issues"
+    },
+    "homepage": "https://gitlab.com/private-awesome-libraries/pug-js/pug-pire#readme",
+    "devDependencies": {
+        "concurrently": "^8.2.2",
+        "cz-conventional-changelog": "^3.3.0",
+        "generate-changelog": "^1.8.0",
+        "pug": "^3.0.2",
+        "pug-cli": "^1.0.0-alpha6"
+    }
+}
