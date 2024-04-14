@@ -1,6 +1,6 @@
 {
     "name": "pug-pire",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "This is just a more mixins with Pug JS for more productive projects.",
     "license": "MIT",
     "licenses": [
@@ -21,6 +21,7 @@
     "scripts": {
         "dev": "pug ./src/index.pug --out ./dist --watch --pretty",
         "cmt": "cz",
+        "upgrade": "ncu --upgrade",
         "log": "changelog generate",
         "tags": "git push repo --tags",
         "gen:lock": "npm i --package-lock-only"
@@ -43,6 +44,7 @@
         "concurrently": "^8.2.2",
         "cz-conventional-changelog": "^3.3.0",
         "generate-changelog": "^1.8.0",
+        "npm-check-updates": "^16.14.18",
         "pug": "^3.0.2",
         "pug-cli": "^1.0.0-alpha6"
     }
