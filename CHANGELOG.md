@@ -1,3 +1,12 @@
+#### 1.3.0 (2024-04-14)
+
+#### 1.2.0 (2024-04-14)
+
+##### Other Changes
+
+*  add `README.md` file with its content ([1e894c8f](https://github.com/ZexLabs/pug-pire/commit/1e894c8f46643d2cbf3858fd2a97434496f043bc))
+*  update `CHANGELOG.md` file with latest commit ([b714d218](https://github.com/ZexLabs/pug-pire/commit/b714d21840c813827779096f09235ed760825d4f))
+
 #### 1.2.0 (2024-04-14)
 
 ##### Other Changes
