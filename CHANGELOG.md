@@ -1,3 +1,10 @@
+#### 1.2.0 (2024-04-14)
+
+##### Other Changes
+
+*  update all links in `package.json` file ([98c21cea](https://github.com/ZexLabs/pug-pire/commit/98c21cea656b9acd985319465275335509d43ee0))
+*  add `npm-check-updates` package ([175c53ec](https://github.com/ZexLabs/pug-pire/commit/175c53ec675f8a68f51aebd0ab516e8eddda373f))
+
 #### 1.0.0 (2024-04-14)
 
 ##### Other Changes
