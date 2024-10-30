@@ -3,6 +3,7 @@
     "version": "1.3.0",
     "description": "This is just a more mixins with Pug JS for more productive projects.",
     "license": "MIT",
+    "organizationName": "Black Axis",
     "licenses": [
         {
             "type": "MIT",
@@ -28,7 +29,7 @@
     },
     "repository": {
         "type": "github",
-        "url": "https://github.com/ZexLabs/pug-pire"
+        "url": "https://github.com/Black-Axis/pug-pire"
     },
     "keywords": [
         "Pug JS",
@@ -37,9 +38,9 @@
         "Pug JS Library"
     ],
     "bugs": {
-        "url": "https://github.com/ZexLabs/pug-pire/issues"
+        "url": "https://github.com/Black-Axis/pug-pire/issues"
     },
-    "homepage": "https://github.com/ZexLabs/pug-pire#readme",
+    "homepage": "https://github.com/Black-Axis/pug-pire#readme",
     "devDependencies": {
         "concurrently": "^9.0.1",
         "cz-conventional-changelog": "^3.3.0",
