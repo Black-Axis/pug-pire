@@ -41,11 +41,11 @@
     },
     "homepage": "https://github.com/ZexLabs/pug-pire#readme",
     "devDependencies": {
-        "concurrently": "^8.2.2",
+        "concurrently": "^9.0.1",
         "cz-conventional-changelog": "^3.3.0",
         "generate-changelog": "^1.8.0",
-        "npm-check-updates": "^16.14.18",
-        "pug": "^3.0.2",
+        "npm-check-updates": "^17.1.9",
+        "pug": "^3.0.3",
         "pug-cli": "^1.0.0-alpha6"
     }
 }
