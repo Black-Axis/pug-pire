@@ -1,0 +1,7 @@
+include ../global/_space
+
+mixin meta-words(...words)
+  - const keywords = words.join(", ");
+
+  meta(name="keywords", content=keywords)
+  +space()

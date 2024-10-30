@@ -1,0 +1,11 @@
+include ./_space.pug
+
+mixin list(type="ul", items)
+  if type === "ul"
+    ul(role="list")
+      each item in items
+        li(role="listitem")= item
+  else if type === "ol"
+    ol(role="list")
+      each item in items
+        li(role="listitem")= item
